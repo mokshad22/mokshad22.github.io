@@ -26,10 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Mokshad Gaonkar"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a PhD trained biostatistician in the Department of Radiation Oncology at Emory University. I work with clinicians and researchers to design studies, analyze complex health data, and translate results into impactful publications. 
+  My research spans oncology, cardiovascular disease, and population health. My interests include survival analysis, longitudinal data, causal inference, and statistical genetics, with experience analyzing large real world datasets such as SEER Medicare, UK Biobank, All of Us, and NHANES.
+I also completed the FDA Oncology Center of Excellence and ASA Oncology Educational Fellowship, where I gained training in clinical trial design, oncology endpoints, and regulatory science. I primarily use R and SAS to develop reproducible statistical analyses for clinical and observational research."
   location         : "Atlanta"
   employer         : "Emory University"
-  uri              : # URL
+  uri              : "https://med.emory.edu/departments/radiation-oncology/divisions/health-services-research-outcomes-and-policy/faculty.html"
   email            : "mgaonka@emory.edu" 
 
   # Academic websites
@@ -38,10 +40,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=iSoC5n8AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0309-6813"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/mokshad.gaonkar.1/bibliography/public/"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
