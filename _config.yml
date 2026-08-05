@@ -25,10 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mokshad Gaonkar"
-  pronouns         : "He/Him"  
-  bio              : "I'm a PhD trained biostatistician in the Department of Radiation Oncology at Emory University. I work with clinicians and researchers to design studies, analyze complex health data, and translate results into impactful publications. 
-  My research spans oncology, cardiovascular disease, and population health. My interests include survival analysis, longitudinal data, causal inference, and statistical genetics, with experience analyzing large real world datasets such as SEER Medicare, UK Biobank, All of Us, and NHANES.
-I also completed the FDA Oncology Center of Excellence and ASA Oncology Educational Fellowship, where I gained training in clinical trial design, oncology endpoints, and regulatory science. I primarily use R and SAS to develop reproducible statistical analyses for clinical and observational research."
+  pronouns         : #
+  bio              : "PhD trained biostatistician at Emory University with interests in oncology, causal inference, survival analysis, and longitudinal data analysis."
   location         : "Atlanta"
   employer         : "Emory University"
   uri              : "https://med.emory.edu/departments/radiation-oncology/divisions/health-services-research-outcomes-and-policy/faculty.html"
